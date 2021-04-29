@@ -1,0 +1,2 @@
+C:\mydata large\VS\pokeGAN\Debug\mlcm final.exe
+C:\mydata large\VS\pokeGAN\Debug\mlcm final.pdb

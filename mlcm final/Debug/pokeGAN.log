@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (pokeGAN.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  bccm.cpp
+C:\mydata large\VS\pokeGAN\source\bccm.cpp(217,17): warning C4101: ik: неиспользованная локальная переменная
+C:\mydata large\VS\pokeGAN\source\bccm.cpp(229,17): warning C4101: ik: неиспользованная локальная переменная
+  compositeNodes.cpp
+  data.cpp
+  ganModel.cpp
+  lacm.cpp
+  lasf.cpp
+  ffModel.cpp
+  nodes.cpp
+  primeNodes.cpp
+  uiparts.cpp
+  Создание кода...
+  pokeGAN.vcxproj -> C:\mydata large\VS\pokeGAN\Debug\mlcm final.exe
